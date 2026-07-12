@@ -1,0 +1,3 @@
+rmse_d_A,rmse_q_A,mean_torque_Nm,torque_std_Nm,illegal_commands,negative_durations,switching_actions,alpha_mode
+0.873023794249886,0.906024983620218,4.81827168319637,0.448156475712599,0,0,444,axis_specific
+1.20361149813772,0.906194899222779,4.74447125314033,0.436042162598775,0,0,1082,common_Ls

@@ -1,0 +1,2 @@
+rmse_d_A,rmse_q_A,mean_torque_Nm,torque_std_Nm,illegal_commands,negative_durations,switching_actions,pass
+0.772139068023171,0.956318186313066,4.85453187005741,0.465203907294544,0,15,478,0

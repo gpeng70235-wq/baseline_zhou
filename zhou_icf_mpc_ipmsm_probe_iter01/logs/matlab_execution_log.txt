@@ -1,0 +1,177 @@
+
+===== 20260712_210214_171_ipmsm_probe | 2026-07-12 21:02:14 =====
+正在运行 test_alpha_d_alpha_q_usage
+.
+已完成 test_alpha_d_alpha_q_usage
+__________
+
+正在运行 test_frame_angle_patch_preserved
+.
+已完成 test_frame_angle_patch_preserved
+__________
+
+正在运行 test_ipmsm_dq_equation_signs
+.
+已完成 test_ipmsm_dq_equation_signs
+__________
+
+正在运行 test_ipmsm_reduces_to_smpmsm
+.
+已完成 test_ipmsm_reduces_to_smpmsm
+__________
+
+正在运行 test_ipmsm_torque_equation
+.
+已完成 test_ipmsm_torque_equation
+__________
+
+正在运行 test_no_illegal_command_ipmsm
+.
+已完成 test_no_illegal_command_ipmsm
+__________
+
+正在运行 test_no_negative_duration_ipmsm
+.
+已完成 test_no_negative_duration_ipmsm
+__________
+
+正在运行 test_nonzero_id_reference_path
+.
+已完成 test_nonzero_id_reference_path
+__________
+
+正在运行 test_project_isolation
+.
+已完成 test_project_isolation
+__________
+
+unit_tests: PASS
+P0: PASS
+P1: PASS
+alpha: PASS
+negative_id: PASS
+SOURCE_MANIFEST.sha256 refreshed: 9c2879af6e5a210627f94952648defad389f32ac1952fa90d25afdf0568b462f
+          tests: 1
+             P0: 1
+             P1: 1
+          alpha: 1
+    negative_id: 1
+
+
+===== 20260712_210805_549_ipmsm_probe | 2026-07-12 21:08:05 =====
+正在运行 test_alpha_d_alpha_q_usage
+.
+已完成 test_alpha_d_alpha_q_usage
+__________
+
+正在运行 test_frame_angle_patch_preserved
+.
+已完成 test_frame_angle_patch_preserved
+__________
+
+正在运行 test_ipmsm_dq_equation_signs
+.
+已完成 test_ipmsm_dq_equation_signs
+__________
+
+正在运行 test_ipmsm_reduces_to_smpmsm
+.
+已完成 test_ipmsm_reduces_to_smpmsm
+__________
+
+正在运行 test_ipmsm_torque_equation
+.
+已完成 test_ipmsm_torque_equation
+__________
+
+正在运行 test_no_illegal_command_ipmsm
+.
+已完成 test_no_illegal_command_ipmsm
+__________
+
+正在运行 test_no_negative_duration_ipmsm
+.
+已完成 test_no_negative_duration_ipmsm
+__________
+
+正在运行 test_nonzero_id_reference_path
+.
+已完成 test_nonzero_id_reference_path
+__________
+
+正在运行 test_project_isolation
+.
+已完成 test_project_isolation
+__________
+
+unit_tests: PASS
+P0: PASS
+P1: PASS
+alpha: PASS
+negative_id: PASS
+SOURCE_MANIFEST.sha256 refreshed: 5792205dcb6add0f77bec7e7af428891b55ac1cc7aca976056e6745de1229322
+          tests: 1
+             P0: 1
+             P1: 1
+          alpha: 1
+    negative_id: 1
+
+
+===== 20260712_211507_428_ipmsm_probe | 2026-07-12 21:15:07 =====
+正在运行 test_alpha_d_alpha_q_usage
+.
+已完成 test_alpha_d_alpha_q_usage
+__________
+
+正在运行 test_frame_angle_patch_preserved
+.
+已完成 test_frame_angle_patch_preserved
+__________
+
+正在运行 test_ipmsm_dq_equation_signs
+.
+已完成 test_ipmsm_dq_equation_signs
+__________
+
+正在运行 test_ipmsm_reduces_to_smpmsm
+.
+已完成 test_ipmsm_reduces_to_smpmsm
+__________
+
+正在运行 test_ipmsm_torque_equation
+.
+已完成 test_ipmsm_torque_equation
+__________
+
+正在运行 test_no_illegal_command_ipmsm
+.
+已完成 test_no_illegal_command_ipmsm
+__________
+
+正在运行 test_no_negative_duration_ipmsm
+.
+已完成 test_no_negative_duration_ipmsm
+__________
+
+正在运行 test_nonzero_id_reference_path
+.
+已完成 test_nonzero_id_reference_path
+__________
+
+正在运行 test_project_isolation
+.
+已完成 test_project_isolation
+__________
+
+unit_tests: PASS
+P0: PASS
+P1: PASS
+alpha: PASS
+negative_id: PASS
+SOURCE_MANIFEST.sha256 refreshed: e0792a9841713dc559bc813e9cdde6e3be5376dd99ff55c33558c660d8c720bd
+          tests: 1
+             P0: 1
+             P1: 1
+          alpha: 1
+    negative_id: 1
+

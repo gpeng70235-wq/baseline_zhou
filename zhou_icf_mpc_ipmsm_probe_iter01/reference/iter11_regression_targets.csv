@@ -1,0 +1,8 @@
+target,value,tolerance,source
+Ld_equals_Lq_H,0.001,0,Iteration_11_SMPMSM_model_limit
+id_reference_A,0,0,Iteration_11_default_d_axis_reference
+max_reluctance_torque_residual_Nm,0,1e-10,analytical_SMPMSM_degeneracy
+max_illegal_commands,0,0,Iteration_11_command_legality_invariant
+max_negative_durations,0,0,Iteration_11_dwell_time_invariant
+max_constraint_violations,0,0,Iteration_11_independent_constraint_invariant
+max_tracking_rmse_A,5,0,IPMSM_probe_acceptance_threshold

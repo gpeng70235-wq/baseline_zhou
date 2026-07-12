@@ -1,0 +1,1 @@
+function c=create_run_directory(root,name,id),c.result=fullfile(root,'results',name,id);c.plot=fullfile(root,'plots',name,id);c.snapshot=fullfile(c.result,'config_snapshot');if isfolder(c.result)||isfolder(c.plot),error('ZhouIPMSM:RunExists','Run exists');end;mkdir(c.result);mkdir(c.plot);mkdir(c.snapshot);end

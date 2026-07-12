@@ -1,0 +1,10 @@
+ZhouIPMSM:UnitTests
+错误使用 assert
+Unit tests failed
+
+出错 run_unit_tests (第 2 行)
+root=fileparts(fileparts(mfilename('fullpath')));suite=testsuite(fullfile(root,'tests','unit'),'IncludeSubfolders',true);r=run(suite);pass=all([r.Passed]);fid=fopen(fullfile(root,'logs','unit_test_log.txt'),'w');fprintf(fid,'%s\n',evalc('disp(r)'));fclose(fid);assert(pass,'ZhouIPMSM:UnitTests','Unit tests failed');
+                                                                                                                                                                                                                                                                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+出错 run_ipmsm_probe (第 3 行)
+try, status.tests=run_unit_tests(cfg); catch ME, log_error(root,run_id,ME); end
+                  ^^^^^^^^^^^^^^^^^^^

@@ -1,0 +1,11 @@
+Unit tests: 9 total, 9 passed, 0 failed, 0 incomplete
+
+[test_alpha_d_alpha_q_usage/testControllerUsesBothAxes] passed=1 failed=0 incomplete=0 duration=0.315267 s
+[test_frame_angle_patch_preserved/testSegmentMidpointOracleAndQueue] passed=1 failed=0 incomplete=0 duration=0.0833662 s
+[test_ipmsm_dq_equation_signs/testExplicitEquationOracle] passed=1 failed=0 incomplete=0 duration=0.0164139 s
+[test_ipmsm_reduces_to_smpmsm/testReduction] passed=1 failed=0 incomplete=0 duration=0.0068691 s
+[test_ipmsm_torque_equation/testClosedFormComponents] passed=1 failed=0 incomplete=0 duration=0.0122877 s
+[test_no_illegal_command_ipmsm/testGeometryAndClosedLoopContracts] passed=1 failed=0 incomplete=0 duration=0.285669 s
+[test_no_negative_duration_ipmsm/testAllCasesAndSixSectors] passed=1 failed=0 incomplete=0 duration=0.0409037 s
+[test_nonzero_id_reference_path/testNegativeIdClosedLoop] passed=1 failed=0 incomplete=0 duration=0.0657541 s
+[test_project_isolation/testOnlyCurrentWorkspaceProjectIsVisible] passed=1 failed=0 incomplete=0 duration=0.0156871 s
