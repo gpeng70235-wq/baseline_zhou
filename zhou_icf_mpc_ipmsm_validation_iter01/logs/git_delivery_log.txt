@@ -1,0 +1,15 @@
+Git delivery audit
+formal_run_id: 20260713_084757_ipmsm_validation
+remote: https://github.com/gpeng70235-wq/baseline_zhou.git
+branch: ipmsm-validation-iter01
+status: pre-commit artifact, run-id, size, manifest, and secret checks passed
+artifact_files: 325
+artifact_bytes_before_git_metadata: 42205344
+files_over_50MB: 0
+secret_hits: 0
+required_plots: 20/20
+manifest_hash_check: 324/324 passed
+staged_files: 325
+staged_outside_project: 0
+precommit_status: READY
+credentials: Git Credential Manager / GitHub CLI only; no token stored

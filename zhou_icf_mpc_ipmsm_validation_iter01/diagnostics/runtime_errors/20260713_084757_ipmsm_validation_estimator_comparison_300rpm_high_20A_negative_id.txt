@@ -1,0 +1,17 @@
+scenario: 300rpm_high_20A_negative_id
+identifier: ZhouIPMSM:AppliedIllegalCommand
+message: Scenario 300rpm_high_20A_negative_id, method ICF_MPC, t=0.0003 s: pending Case 3 has duties [-0.020443702865664548 0.79054492638710749 0.22989877647855694], reference [-8.97034,28.2794] V.
+
+错误使用 zhou_ipmsm.sim.run_closed_loop (第 236 行)
+Scenario 300rpm_high_20A_negative_id, method ICF_MPC, t=0.0003 s: pending Case 3 has duties [-0.020443702865664548 0.79054492638710749 0.22989877647855694], reference
+[-8.97034,28.2794] V.
+
+出错 zhou_validation.execute_ipmsm_case (第 12 行)
+simulation=zhou_ipmsm.sim.run_closed_loop("ICF_MPC",scenario,run_project);
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+出错 zhou_validation.execute_ipmsm_case_safe (第 7 行)
+    [row,trace,simulation]=zhou_validation.execute_ipmsm_case( ...
+                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+出错 experiment_A6_F_estimator_comparison (第 47 行)
+        [row,etrace,~,eso_ok]=zhou_validation.execute_ipmsm_case_safe( ...
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^

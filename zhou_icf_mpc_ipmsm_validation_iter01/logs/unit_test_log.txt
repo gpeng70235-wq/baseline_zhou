@@ -1,0 +1,27 @@
+run_id: 20260713_084757_ipmsm_validation
+tests: 24 total, 24 passed, 0 failed, 0 incomplete
+
+[test_F_algebraic_causality/testAlgebraicEstimatorUsesOnlyPastAppliedWindow] passed=1 failed=0 incomplete=0 duration=0.4578389 s
+[test_RK4_switch_boundary_convergence/testConfiguredSubstepsRespectBoundariesAndConverge] passed=1 failed=0 incomplete=0 duration=0.0910506 s
+[test_U3_U4_accuracy/testMidpointU3MatchesExactRotatingFrameIntegral] passed=1 failed=0 incomplete=0 duration=0.0441389 s
+[test_axis_specific_alpha/testControllerRectangleUsesIndependentAxes] passed=1 failed=0 incomplete=0 duration=0.1057093 s
+[test_basic_ESO_causality/testESOIsDeterministicStatefulAndPresentCausal] passed=1 failed=0 incomplete=0 duration=0.1053694 s
+[test_common_alpha_mode/testCommonModeUsesOneFrozenLsGain] passed=1 failed=0 incomplete=0 duration=0.0260924 s
+[test_constraint_metric_identity/testEquationFiveAndIndependentEquationSevenOracle] passed=1 failed=0 incomplete=0 duration=0.0216616 s
+[test_constraint_metric_identity/testLoggedBooleansAreExactlyTheCostDefinition] passed=1 failed=0 incomplete=0 duration=0.39186 s
+[test_frame_patch_inheritance/testSegmentMidpointAnglesAndOnePeriodDelay] passed=1 failed=0 incomplete=0 duration=0.02904 s
+[test_ipmsm_equation_signs/testExplicitDqEquationOracle] passed=1 failed=0 incomplete=0 duration=0.0080281 s
+[test_ipmsm_equation_signs/testDegenerateEquationMatchesReference] passed=1 failed=0 incomplete=0 duration=0.004285 s
+[test_ipmsm_torque_components/testMagnetReluctanceAndTotalTorque] passed=1 failed=0 incomplete=0 duration=0.011216 s
+[test_ipmsm_torque_components/testReluctanceTorqueVanishesAtP0] passed=1 failed=0 incomplete=0 duration=0.0025406 s
+[test_negative_id_reference/testNegativeIdTraversesClosedLoopAndProducesReluctanceTorque] passed=1 failed=0 incomplete=0 duration=0.1260862 s
+[test_no_external_runtime_dependency/testOnlineCodeContainsNoLegacyAbsoluteDependency] passed=1 failed=0 incomplete=0 duration=0.060132 s
+[test_no_external_runtime_dependency/testCriticalRuntimeSymbolsResolveLocally] passed=1 failed=0 incomplete=0 duration=0.0078758 s
+[test_no_illegal_command_matrix/testSixOperatingConditionsRemainCommandLegal] passed=1 failed=0 incomplete=0 duration=0.2791482 s
+[test_no_negative_duration_matrix/testEveryCaseAndSectorHasNonnegativeNormalizedDwell] passed=1 failed=0 incomplete=0 duration=0.0570546 s
+[test_oracle_not_used_online/testOfflineOracleCannotEnterControllerOrPlantPath] passed=1 failed=0 incomplete=0 duration=0.012497 s
+[test_project_isolation/testOnlyCurrentProjectResolves] passed=1 failed=0 incomplete=0 duration=0.0299784 s
+[test_selected_queued_applied_alignment/testOneCycleQueueAlignment] passed=1 failed=0 incomplete=0 duration=0.1796872 s
+[test_strict_iter11_p0_regression/testIndependentDegenerateClosedLoopsMatchPointwise] passed=1 failed=0 incomplete=0 duration=0.4866173 s
+[test_summary_schema/testEveryRequiredMetadataFieldIsMaterialized] passed=1 failed=0 incomplete=0 duration=0.6890452 s
+[test_thd_steady_state_window/testIntegerCycleWindowExcludesStartupAndReportsComponents] passed=1 failed=0 incomplete=0 duration=0.0203169 s

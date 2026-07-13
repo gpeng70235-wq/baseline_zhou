@@ -1,0 +1,12 @@
+statistic,value,scope,interpretation
+P1_minus_P0_d_prediction_RMSE_A,0.00321226593560672,six_condition_P1_vs_P0,positive means saliency adds d prediction error
+P1_minus_P0_q_prediction_RMSE_A,-0.0032266828406112,six_condition_P1_vs_P0,positive means saliency adds q prediction error
+P1_vs_P0_d_residual_ratio,1.62403644037657,six_condition_P1_vs_P0,greater than one means IPMSM amplifies d residual
+negative_id_Fd_oracle_RMSE_delta,30.5061129446698,three_condition_id_-6_vs_0,positive means negative id increases Fd residual
+sector_transition_error_ratio,1.2172913696213,worst_case_cycle_association,association only; not a causal estimate
+case_transition_error_ratio,1.90508320877277,worst_case_cycle_association,association only; not a causal estimate
+command_transition_error_ratio,1.30974383430252,worst_case_cycle_association,association only; not a causal estimate
+prediction_error_voltage_utilization_correlation,0.181505614461826,worst_case_cycle_association,association only; not a causal estimate
+axis_specific_mean_d_RMSE_delta_A,-0.037258976843595,six_condition_alpha_pair,negative means axis-specific improves d tracking
+offline_oracle_prediction_improvement,0.214421994727242,five_condition_offline_counterfactual,noncausal lower-bound improvement
+best_ESO_prediction_improvement,-0.00768638487728013,five_condition_online_ESO,comparison baseline improvement

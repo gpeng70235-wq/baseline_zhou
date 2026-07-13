@@ -1,0 +1,219 @@
+SHA256 的 C:\Users\catkin\Documents\baseline_zhou\zhou_icf_mpc_reproduction_iter11\initialize_project.m 哈希:
+ff73bfb5e0d07932f3d0464ba9d024af702ee205d5cd63701edef5edf7e629a5
+CertUtil: -hashfile 命令成功完成。
+SHA256 的 C:\Users\catkin\Documents\baseline_zhou\zhou_icf_mpc_reproduction_iter11\run_all_acceptance.m 哈希:
+df832112bb846c33df7a5c3b33e6193fd97a5a2e906c0447033987b30b885f7f
+CertUtil: -hashfile 命令成功完成。
+SHA256 的 C:\Users\catkin\Documents\baseline_zhou\zhou_icf_mpc_reproduction_iter11\run_all_acceptance_iter11.m 哈希:
+9714111bbbc6cea36af5b5aab2e93acd1511ab6b0a1530e0a3350a041f782c75
+CertUtil: -hashfile 命令成功完成。
+SHA256 的 C:\Users\catkin\Documents\baseline_zhou\zhou_icf_mpc_reproduction_iter11\run_delivery_audit.m 哈希:
+edd81ffda8ca736ce1e43b4d7486010028b9e6eea8583941ceb3a60a073828c9
+CertUtil: -hashfile 命令成功完成。
+SHA256 的 C:\Users\catkin\Documents\baseline_zhou\zhou_icf_mpc_reproduction_iter11\run_experiment_A.m 哈希:
+811077fcbe32feaeff9e75b3adb6ac88762da7f884c25f1a0803878cdb481b95
+CertUtil: -hashfile 命令成功完成。
+SHA256 的 C:\Users\catkin\Documents\baseline_zhou\zhou_icf_mpc_reproduction_iter11\run_experiment_B.m 哈希:
+36a17263ac5dbfbd17e94c5a8fc5486a3fe79fc04b01da32a52ea30ca7abf0e7
+CertUtil: -hashfile 命令成功完成。
+SHA256 的 C:\Users\catkin\Documents\baseline_zhou\zhou_icf_mpc_reproduction_iter11\run_experiment_C.m 哈希:
+7a2841960a792b38c004d8edac97f14f4232dab68a42ca72420e7525a7f17679
+CertUtil: -hashfile 命令成功完成。
+SHA256 的 C:\Users\catkin\Documents\baseline_zhou\zhou_icf_mpc_reproduction_iter11\run_experiment_D.m 哈希:
+092b0e39198014e3f9d1eebd3840541e9695b93220a2d7c19c879600a636e1ba
+CertUtil: -hashfile 命令成功完成。
+SHA256 的 C:\Users\catkin\Documents\baseline_zhou\zhou_icf_mpc_reproduction_iter11\run_full_condition_matrix.m 哈希:
+8f3657311e39604a009a8b1afaa10b6a8229cbc1e7a5d8de09dd83363890e6a8
+CertUtil: -hashfile 命令成功完成。
+SHA256 的 C:\Users\catkin\Documents\baseline_zhou\zhou_icf_mpc_reproduction_iter11\run_unit_tests.m 哈希:
+e29b41e0cf63b5742718b4cd4c6d8ec5d0da7617d9fa870a2cf07d1cabdc3f38
+CertUtil: -hashfile 命令成功完成。
+SHA256 的 C:\Users\catkin\Documents\baseline_zhou\zhou_icf_mpc_reproduction_iter11\run_waveform_convergence.m 哈希:
+7cd747477bb041751f2ad7e0e70f99d377ccbad403173ccf35cfb4aa0d6f6308
+CertUtil: -hashfile 命令成功完成。
+SHA256 的 C:\Users\catkin\Documents\baseline_zhou\zhou_icf_mpc_reproduction_iter11\config\experiment_definitions.m 哈希:
+e3c30db1605eabbd5d8ef4878d768a1f0f6e40bf64ff759488d8d4afccfb9b0f
+CertUtil: -hashfile 命令成功完成。
+SHA256 的 C:\Users\catkin\Documents\baseline_zhou\zhou_icf_mpc_reproduction_iter11\config\frame_alignment_config.m 哈希:
+8ff5b7f9b3c7bdb122db767fa21340fcad28bed778890c999dbfba5dbfdc63ef
+CertUtil: -hashfile 命令成功完成。
+SHA256 的 C:\Users\catkin\Documents\baseline_zhou\zhou_icf_mpc_reproduction_iter11\config\implementation_assumptions.m 哈希:
+cf7654154e06eff38d56c11ad04898c293184df831203966978c2421a8dea924
+CertUtil: -hashfile 命令成功完成。
+SHA256 的 C:\Users\catkin\Documents\baseline_zhou\zhou_icf_mpc_reproduction_iter11\config\paper_parameters.m 哈希:
+bc56a2df560df087e2af028ec43a3bcf0c7749be4dd67736535ae94a6c5261c4
+CertUtil: -hashfile 命令成功完成。
+SHA256 的 C:\Users\catkin\Documents\baseline_zhou\zhou_icf_mpc_reproduction_iter11\config\paper_pointwise_targets.m 哈希:
+f8d1d0301c9aa14ae8d21a311989c5d119a2a077aa42e6abf8494f8d254226f1
+CertUtil: -hashfile 命令成功完成。
+SHA256 的 C:\Users\catkin\Documents\baseline_zhou\zhou_icf_mpc_reproduction_iter11\config\paper_similarity_targets.m 哈希:
+921002baec0a7be5256208173aabe223ec4ae6a8dcc8873381c313eaaac24fcf
+CertUtil: -hashfile 命令成功完成。
+SHA256 的 C:\Users\catkin\Documents\baseline_zhou\zhou_icf_mpc_reproduction_iter11\experiments\experiment_A.m 哈希:
+c706e58b52a6a24054ecb15cc0375862f83fd43cf97ba5671bb106f24a0141b3
+CertUtil: -hashfile 命令成功完成。
+SHA256 的 C:\Users\catkin\Documents\baseline_zhou\zhou_icf_mpc_reproduction_iter11\experiments\experiment_B.m 哈希:
+0615cb7eef6a29b36c7571c4963fdac6b985cdeb80fc2e9b4a148222e7246008
+CertUtil: -hashfile 命令成功完成。
+SHA256 的 C:\Users\catkin\Documents\baseline_zhou\zhou_icf_mpc_reproduction_iter11\experiments\experiment_C.m 哈希:
+edf16767dc764556e4f95bb04bf8d6fd2d667d99fdb0e9eb07f72cb2e95da392
+CertUtil: -hashfile 命令成功完成。
+SHA256 的 C:\Users\catkin\Documents\baseline_zhou\zhou_icf_mpc_reproduction_iter11\experiments\experiment_D.m 哈希:
+033828a993e6b5f2046d49c759927ef305dddd5d69283fcb17a2c7bce4d223ed
+CertUtil: -hashfile 命令成功完成。
+SHA256 的 C:\Users\catkin\Documents\baseline_zhou\zhou_icf_mpc_reproduction_iter11\experiments\experiment_Vdc_identification.m 哈希:
+810a8a5fc9c316a1c0d70e32512cc4aa38332cd2be9622222e535a67071167e9
+CertUtil: -hashfile 命令成功完成。
+SHA256 的 C:\Users\catkin\Documents\baseline_zhou\zhou_icf_mpc_reproduction_iter11\experiments\experiment_full_conditions.m 哈希:
+52b5c81daad836f8fa99421fa98cea41aff56c27fd88934d03b88d437832cf5d
+CertUtil: -hashfile 命令成功完成。
+SHA256 的 C:\Users\catkin\Documents\baseline_zhou\zhou_icf_mpc_reproduction_iter11\experiments\experiment_waveform_convergence.m 哈希:
+508b4e4fd7945e373400c66cc7d73b64e193bf7a56b176b3f790267ed1314b67
+CertUtil: -hashfile 命令成功完成。
+SHA256 的 C:\Users\catkin\Documents\baseline_zhou\zhou_icf_mpc_reproduction_iter11\src\+zhou\+baseline\fcs_mpcc_step.m 哈希:
+d6577b19ca5da7d4a8b0cae613940d6a2497002a7609289a2a407d6b612feb98
+CertUtil: -hashfile 命令成功完成。
+SHA256 的 C:\Users\catkin\Documents\baseline_zhou\zhou_icf_mpc_reproduction_iter11\src\+zhou\+controller\compute_V_terms.m 哈希:
+dd060c641e39132c2d7dac528dbabb2bef65d010decd9f78d088fbfa1d1c9209
+CertUtil: -hashfile 命令成功完成。
+SHA256 的 C:\Users\catkin\Documents\baseline_zhou\zhou_icf_mpc_reproduction_iter11\src\+zhou\+controller\costs_from_voltage.m 哈希:
+e1a21d385064e2a8fa864abb4bdfb8d9be7d8b54aca4e250ac278c32745355ad
+CertUtil: -hashfile 命令成功完成。
+SHA256 的 C:\Users\catkin\Documents\baseline_zhou\zhou_icf_mpc_reproduction_iter11\src\+zhou\+controller\estimate_F.m 哈希:
+1e01d613f54e53e9a6f1cc91bb5996e74ee23d9efc881b6c89a6870b45af5332
+CertUtil: -hashfile 命令成功完成。
+SHA256 的 C:\Users\catkin\Documents\baseline_zhou\zhou_icf_mpc_reproduction_iter11\src\+zhou\+controller\estimate_F_algebraic.m 哈希:
+9709a26ba7b778eb54e49f058e8bf1d3421bc7145089616938fac6d8e1d0b8ca
+CertUtil: -hashfile 命令成功完成。
+SHA256 的 C:\Users\catkin\Documents\baseline_zhou\zhou_icf_mpc_reproduction_iter11\src\+zhou\+controller\icf_mpc_step.m 哈希:
+abe67b84d8c477da1c1f2f0ac8d98a474ed90b4a5f372f6ce2c4e64f3fd07c66
+CertUtil: -hashfile 命令成功完成。
+SHA256 的 C:\Users\catkin\Documents\baseline_zhou\zhou_icf_mpc_reproduction_iter11\src\+zhou\+controller\independent_costs.m 哈希:
+cbabe47925f93c0a82e738ef906afc34111e130c534f9c9b7e9ce7bf8eaedc43
+CertUtil: -hashfile 命令成功完成。
+SHA256 的 C:\Users\catkin\Documents\baseline_zhou\zhou_icf_mpc_reproduction_iter11\src\+zhou\+controller\predict_k1.m 哈希:
+eaf4f7a03d736828d00503c93fef60ae8a7d21c7d3f9d3fdc5df258131737f62
+CertUtil: -hashfile 命令成功完成。
+SHA256 的 C:\Users\catkin\Documents\baseline_zhou\zhou_icf_mpc_reproduction_iter11\src\+zhou\+controller\predict_k2.m 哈希:
+1b331a04db899a1d79a5e706b79de909368b99e622afa35c27fdab3e35199f00
+CertUtil: -hashfile 命令成功完成。
+SHA256 的 C:\Users\catkin\Documents\baseline_zhou\zhou_icf_mpc_reproduction_iter11\src\+zhou\+controller\sequence_equivalent_dq_voltage.m 哈希:
+75dab69f241191f2199c1d5302b8c953fca41e4b63198e21f7ecb059bf316fcd
+CertUtil: -hashfile 命令成功完成。
+SHA256 的 C:\Users\catkin\Documents\baseline_zhou\zhou_icf_mpc_reproduction_iter11\src\+zhou\+geometry\active_lines.m 哈希:
+0b24b5c92b9646da7e3cc27b4a1b9016710f35000c340b32d27f38424151d0d2
+CertUtil: -hashfile 命令成功完成。
+SHA256 的 C:\Users\catkin\Documents\baseline_zhou\zhou_icf_mpc_reproduction_iter11\src\+zhou\+geometry\analyze_rectangle.m 哈希:
+9613a7e5fbe29d6befb12b02e56fa92ccebcf47f06365e71fb78107a660dcf07
+CertUtil: -hashfile 命令成功完成。
+SHA256 的 C:\Users\catkin\Documents\baseline_zhou\zhou_icf_mpc_reproduction_iter11\src\+zhou\+geometry\build_rectangle.m 哈希:
+6958df981109def4d01962425350285a48aa08edc537fca674c6e218ed42cf9f
+CertUtil: -hashfile 命令成功完成。
+SHA256 的 C:\Users\catkin\Documents\baseline_zhou\zhou_icf_mpc_reproduction_iter11\src\+zhou\+geometry\case2_midpoint.m 哈希:
+af9d38a9900632c89f7563c4af682857bf4d5bd42284bf16eee32e238a2bd99f
+CertUtil: -hashfile 命令成功完成。
+SHA256 的 C:\Users\catkin\Documents\baseline_zhou\zhou_icf_mpc_reproduction_iter11\src\+zhou\+geometry\classify_case.m 哈希:
+075b1702479c6a428628367526d5adf0733b97614fddebcbb6b664a440f50bb3
+CertUtil: -hashfile 命令成功完成。
+SHA256 的 C:\Users\catkin\Documents\baseline_zhou\zhou_icf_mpc_reproduction_iter11\src\+zhou\+geometry\line_rectangle_intersections.m 哈希:
+01c11e643dc05abe8c931970d66fb3efe7be8a6ff47dc2a0b5bdf59183875f2f
+CertUtil: -hashfile 命令成功完成。
+SHA256 的 C:\Users\catkin\Documents\baseline_zhou\zhou_icf_mpc_reproduction_iter11\src\+zhou\+geometry\line_side_signature.m 哈希:
+2b4c43a330afa31c46e3667ac86f9e02dd43599ab1b839b5ecc5bd8fd46d9b24
+CertUtil: -hashfile 命令成功完成。
+SHA256 的 C:\Users\catkin\Documents\baseline_zhou\zhou_icf_mpc_reproduction_iter11\src\+zhou\+geometry\point_in_rectangle.m 哈希:
+45555ee2a8431d2c1e1e04bef0336abf5fe6e3b10664ebb5176d51057518062d
+CertUtil: -hashfile 命令成功完成。
+SHA256 的 C:\Users\catkin\Documents\baseline_zhou\zhou_icf_mpc_reproduction_iter11\src\+zhou\+geometry\sector_of_point.m 哈希:
+cc4b6b23cebae4193655bde73ea1cd736ce7011f1a49ef38c9f177a2fcd8693b
+CertUtil: -hashfile 命令成功完成。
+SHA256 的 C:\Users\catkin\Documents\baseline_zhou\zhou_icf_mpc_reproduction_iter11\src\+zhou\+geometry\select_savv.m 哈希:
+37266acbb2b4e70efed2650badc7778e368c4537893cb884de3054b165de646e
+CertUtil: -hashfile 命令成功完成。
+SHA256 的 C:\Users\catkin\Documents\baseline_zhou\zhou_icf_mpc_reproduction_iter11\src\+zhou\+inverter\count_sequence_transitions.m 哈希:
+dc6970a7c0a922a9a23f4029a27c2517e488c0a574c1659539a5fef41f0bbf24
+CertUtil: -hashfile 命令成功完成。
+SHA256 的 C:\Users\catkin\Documents\baseline_zhou\zhou_icf_mpc_reproduction_iter11\src\+zhou\+inverter\deadtime_voltage_error.m 哈希:
+a033388d0b9ba3facac25e5eb25b9fe5318853f65b09f9706bfa34838561784d
+CertUtil: -hashfile 命令成功完成。
+SHA256 的 C:\Users\catkin\Documents\baseline_zhou\zhou_icf_mpc_reproduction_iter11\src\+zhou\+inverter\voltage_vectors.m 哈希:
+3e5567c0790a8d06adcda9e6e63e6e939abfc2829f52c194f6745710776e7f88
+CertUtil: -hashfile 命令成功完成。
+SHA256 的 C:\Users\catkin\Documents\baseline_zhou\zhou_icf_mpc_reproduction_iter11\src\+zhou\+io\append_standard_tables.m 哈希:
+850f93cfc369233b2f42b068d6f723c80c36bf34e135bdeefa557c4c76ef5c44
+CertUtil: -hashfile 命令成功完成。
+SHA256 的 C:\Users\catkin\Documents\baseline_zhou\zhou_icf_mpc_reproduction_iter11\src\+zhou\+io\append_text.m 哈希:
+b1b71fcfb0766b7a291d70878041d78c4c1ee98b292b71e27f2943b8376d94eb
+CertUtil: -hashfile 命令成功完成。
+SHA256 的 C:\Users\catkin\Documents\baseline_zhou\zhou_icf_mpc_reproduction_iter11\src\+zhou\+io\create_run_context.m 哈希:
+675c56d054a036f39d4d33a0a9ef01301f2eee979195bfe9069dd507cbae1882
+CertUtil: -hashfile 命令成功完成。
+SHA256 的 C:\Users\catkin\Documents\baseline_zhou\zhou_icf_mpc_reproduction_iter11\src\+zhou\+io\file_sha256.m 哈希:
+432353aebeb04c2c6c7a62fe47138ecc465d5a843aee39dd04fd7947b115b84c
+CertUtil: -hashfile 命令成功完成。
+SHA256 的 C:\Users\catkin\Documents\baseline_zhou\zhou_icf_mpc_reproduction_iter11\src\+zhou\+io\write_code_manifest.m 哈希:
+a4c008c4bca79c9011ebf809e3734df9137d485cf6c5e047cbfdf2ad19595c2b
+CertUtil: -hashfile 命令成功完成。
+SHA256 的 C:\Users\catkin\Documents\baseline_zhou\zhou_icf_mpc_reproduction_iter11\src\+zhou\+io\write_or_append_table.m 哈希:
+c7672bdbd1fc595fc5ad619cd91b302f31ce008b54424f469a2e0dce0a506b41
+CertUtil: -hashfile 命令成功完成。
+SHA256 的 C:\Users\catkin\Documents\baseline_zhou\zhou_icf_mpc_reproduction_iter11\src\+zhou\+io\write_text_new.m 哈希:
+11fbcb9507aed7a9f80e14c81404e8e0fa64f8e43c2f194fa78b50b43b6b7aaf
+CertUtil: -hashfile 命令成功完成。
+SHA256 的 C:\Users\catkin\Documents\baseline_zhou\zhou_icf_mpc_reproduction_iter11\src\+zhou\+math\inv_park.m 哈希:
+9aba0e5069d057e46a4505db9cbfcdda1fb4915f9e42d4a8dba849811cba6624
+CertUtil: -hashfile 命令成功完成。
+SHA256 的 C:\Users\catkin\Documents\baseline_zhou\zhou_icf_mpc_reproduction_iter11\src\+zhou\+math\park.m 哈希:
+dcb18e96c63efa8f4741f93ad4e203c1c1fceb4f0e5e91c864203161bdcc2c14
+CertUtil: -hashfile 命令成功完成。
+SHA256 的 C:\Users\catkin\Documents\baseline_zhou\zhou_icf_mpc_reproduction_iter11\src\+zhou\+metrics\case_statistics_table.m 哈希:
+9ed4200f5ed837bc968ce47635ad3179af416dc1e5842ca517e6eb313b50ac16
+CertUtil: -hashfile 命令成功完成。
+SHA256 的 C:\Users\catkin\Documents\baseline_zhou\zhou_icf_mpc_reproduction_iter11\src\+zhou\+metrics\constraint_violations_table.m 哈希:
+42fa7c9e356b5a6daa2147fd848beb7e176ea4c87032cb0bc64e817a21251636
+CertUtil: -hashfile 命令成功完成。
+SHA256 的 C:\Users\catkin\Documents\baseline_zhou\zhou_icf_mpc_reproduction_iter11\src\+zhou\+metrics\phase_thd.m 哈希:
+5e43604055e7238b6c841301e71bf462bca80ddc7facf48370ed8ce6f485b638
+CertUtil: -hashfile 命令成功完成。
+SHA256 的 C:\Users\catkin\Documents\baseline_zhou\zhou_icf_mpc_reproduction_iter11\src\+zhou\+metrics\phase_thd_total_rms.m 哈希:
+4e3746ee786cf9964e4d897aefb71dfd717402ce2327cf1c96758794d6fd4f62
+CertUtil: -hashfile 命令成功完成。
+SHA256 的 C:\Users\catkin\Documents\baseline_zhou\zhou_icf_mpc_reproduction_iter11\src\+zhou\+metrics\summarize_simulation.m 哈希:
+6d0c673c6fe4ac54c9ed34f8fca19761d4c3dd948afd9cbe095eddd3dbe65abc
+CertUtil: -hashfile 命令成功完成。
+SHA256 的 C:\Users\catkin\Documents\baseline_zhou\zhou_icf_mpc_reproduction_iter11\src\+zhou\+metrics\summary_to_long_table.m 哈希:
+fe7d4f860976f61e77fdfc721a0fbfab0f209bd5b5ea23f089ce4a93a4b42cd0
+CertUtil: -hashfile 命令成功完成。
+SHA256 的 C:\Users\catkin\Documents\baseline_zhou\zhou_icf_mpc_reproduction_iter11\src\+zhou\+model\electromagnetic_torque.m 哈希:
+4e183f9fc1eab7ef6d8ff83e3a232b7c96457922be8a098bbb42b7e9a465382f
+CertUtil: -hashfile 命令成功完成。
+SHA256 的 C:\Users\catkin\Documents\baseline_zhou\zhou_icf_mpc_reproduction_iter11\src\+zhou\+model\integrate_command.m 哈希:
+0467acb47b08a97b1783591f19ac0b0e6fd71e132304328ab11ff3b7442ba65b
+CertUtil: -hashfile 命令成功完成。
+SHA256 的 C:\Users\catkin\Documents\baseline_zhou\zhou_icf_mpc_reproduction_iter11\src\+zhou\+model\phase_currents.m 哈希:
+9d6d5579fc6a1dc3a6a0c6b15c8816b57f93ec956175ba3d32a442db016d2491
+CertUtil: -hashfile 命令成功完成。
+SHA256 的 C:\Users\catkin\Documents\baseline_zhou\zhou_icf_mpc_reproduction_iter11\src\+zhou\+model\pmsm_derivative.m 哈希:
+23c75158065f2ef118e632f41f11dd82fdfd8a306500b0135142b13cb6879e76
+CertUtil: -hashfile 命令成功完成。
+SHA256 的 C:\Users\catkin\Documents\baseline_zhou\zhou_icf_mpc_reproduction_iter11\src\+zhou\+model\sample_command_waveform.m 哈希:
+35b6c89ccfb2d0a97a1455ea6e54ac88f4e24d5cca6565a246c447c5a5189393
+CertUtil: -hashfile 命令成功完成。
+SHA256 的 C:\Users\catkin\Documents\baseline_zhou\zhou_icf_mpc_reproduction_iter11\src\+zhou\+modulation\case1_command.m 哈希:
+5b047ffe7e63b29d02e0c81bfed76e49e22d0a675d664c209cd039486fa12bac
+CertUtil: -hashfile 命令成功完成。
+SHA256 的 C:\Users\catkin\Documents\baseline_zhou\zhou_icf_mpc_reproduction_iter11\src\+zhou\+modulation\case2_command.m 哈希:
+593ef1b57ac49818cbbee037aeb3da3edaa7436b2a23ef3a903ae21322dc4636
+CertUtil: -hashfile 命令成功完成。
+SHA256 的 C:\Users\catkin\Documents\baseline_zhou\zhou_icf_mpc_reproduction_iter11\src\+zhou\+modulation\case3_command.m 哈希:
+97d3f8d95f4af2de0516f87e82eb6884977449675763ed1aea4b847b5869e9af
+CertUtil: -hashfile 命令成功完成。
+SHA256 的 C:\Users\catkin\Documents\baseline_zhou\zhou_icf_mpc_reproduction_iter11\src\+zhou\+sim\run_closed_loop.m 哈希:
+e5033c076a4769b7fe55bc50e10099f9d4d8e649b103a9229bf681bbe371803a
+CertUtil: -hashfile 命令成功完成。
+SHA256 的 C:\Users\catkin\Documents\baseline_zhou\zhou_icf_mpc_reproduction_iter11\tests\acceptance\test_geometry_acceptance.m 哈希:
+340ea9e552335165325567f8c0d68f6740bd067fb0a16a3582b3534d7f92adfe
+CertUtil: -hashfile 命令成功完成。
+SHA256 的 C:\Users\catkin\Documents\baseline_zhou\zhou_icf_mpc_reproduction_iter11\tests\unit\test_core_geometry_oracles.m 哈希:
+de3141bf88e9c5ab341cad30250759e763e8a2de949bab439cc94c8425c022f0
+CertUtil: -hashfile 命令成功完成。

@@ -1,0 +1,4 @@
+run_id,timestamp,scenario,case_match_rate,vector_match_rate,duration_structure_match_rate,duration_max_abs_error_s,current_max_abs_error_A,U3_max_abs_error_V,U4_max_abs_error_V,summary_max_relative_error,illegal_commands,negative_durations,pass_fail
+20260713_084757_ipmsm_validation,2026-07-13T08:47:57.591***,A0_100rpm_10A,1,1,1,0,0,0,0,0,0,0,PASS
+20260713_084757_ipmsm_validation,2026-07-13T08:47:57.591***,A0_300rpm_10A,1,1,1,0,0,0,0,0,0,0,PASS
+20260713_084757_ipmsm_validation,2026-07-13T08:47:57.591***,A0_500rpm_20A,1,1,1,0,0,0,0,1.92662736087619e-16,0,0,PASS

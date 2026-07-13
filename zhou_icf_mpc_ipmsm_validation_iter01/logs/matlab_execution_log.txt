@@ -1,0 +1,112 @@
+===== formal run 20260713_084757_ipmsm_validation | 2026-07-13T08:47:57.591*** =====
+正在运行 test_F_algebraic_causality
+.
+已完成 test_F_algebraic_causality
+__________
+
+正在运行 test_RK4_switch_boundary_convergence
+.
+已完成 test_RK4_switch_boundary_convergence
+__________
+
+正在运行 test_U3_U4_accuracy
+.
+已完成 test_U3_U4_accuracy
+__________
+
+正在运行 test_axis_specific_alpha
+.
+已完成 test_axis_specific_alpha
+__________
+
+正在运行 test_basic_ESO_causality
+.
+已完成 test_basic_ESO_causality
+__________
+
+正在运行 test_common_alpha_mode
+.
+已完成 test_common_alpha_mode
+__________
+
+正在运行 test_constraint_metric_identity
+..
+已完成 test_constraint_metric_identity
+__________
+
+正在运行 test_frame_patch_inheritance
+.
+已完成 test_frame_patch_inheritance
+__________
+
+正在运行 test_ipmsm_equation_signs
+..
+已完成 test_ipmsm_equation_signs
+__________
+
+正在运行 test_ipmsm_torque_components
+..
+已完成 test_ipmsm_torque_components
+__________
+
+正在运行 test_negative_id_reference
+.
+已完成 test_negative_id_reference
+__________
+
+正在运行 test_no_external_runtime_dependency
+..
+已完成 test_no_external_runtime_dependency
+__________
+
+正在运行 test_no_illegal_command_matrix
+.
+已完成 test_no_illegal_command_matrix
+__________
+
+正在运行 test_no_negative_duration_matrix
+.
+已完成 test_no_negative_duration_matrix
+__________
+
+正在运行 test_oracle_not_used_online
+.
+已完成 test_oracle_not_used_online
+__________
+
+正在运行 test_project_isolation
+.
+已完成 test_project_isolation
+__________
+
+正在运行 test_selected_queued_applied_alignment
+.
+已完成 test_selected_queued_applied_alignment
+__________
+
+正在运行 test_strict_iter11_p0_regression
+.
+已完成 test_strict_iter11_p0_regression
+__________
+
+正在运行 test_summary_schema
+.
+已完成 test_summary_schema
+__________
+
+正在运行 test_thd_steady_state_window
+.
+已完成 test_thd_steady_state_window
+__________
+
+A0 strict dual-closed-loop regression...
+A1 six-condition P0/P1 matrix...
+A2 alpha-mode matrix...
+A3 negative-id matrix...
+A4 plant-only parameter sensitivity...
+A5 labeled stress matrix...
+A6 estimator comparison...
+A7 residual root-cause evidence...
+A8 numerical closure...
+Generating twenty formal plots...
+Formal run complete: 20260713_084757_ipmsm_validation | decision E
