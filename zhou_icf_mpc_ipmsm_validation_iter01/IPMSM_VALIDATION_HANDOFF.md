@@ -15,7 +15,8 @@ See `SOURCE_MANIFEST.sha256`, `reference/manifests/`, and `docs/baseline_inherit
 ## 4. Git state
 
 - branch: `ipmsm-validation-iter01`
-- commit at report generation: `1f49438ccc85a8a0d334dd0d2175faac1afb636c`
+- content commit: `92b887789c9dea449ea71be65cfbd452aee938d4`
+- push status: `SUCCESS` at `2026-07-13T09:13:09+08:00`
 - remote: `https://github.com/gpeng70235-wq/baseline_zhou.git`
 
 ## 5. Directory structure
