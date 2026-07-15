@@ -1,0 +1,6 @@
+upstream_project,absolute_path,content_evidence,confirmed
+ipmsm_probe,C:\Users\catkin\Documents\baseline_zhou\zhou_icf_mpc_ipmsm_probe_iter01,FINAL_IPMSM_PROBE_REPORT.md;src/+zhou_ipmsm/+controller/icf_mpc_step.m,1
+s2_feasibility,C:\Users\catkin\Documents\baseline_zhou\zhou_icf_mpc_ipmsm_feasibility_control_iter01,FINAL_FEASIBILITY_CONTROL_REPORT.md;src/+zhou_feasibility/rectangle_hexagon_intersection.m,1
+robust_residual,C:\Users\catkin\Documents\baseline_zhou\zhou_icf_mpc_ipmsm_robust_constraint_iter01,FINAL_ROBUST_CONSTRAINT_REPORT.md;RESIDUAL_ALIGNMENT_AUDIT.md,1
+sequence_decomposition,C:\Users\catkin\Documents\baseline_zhou\zhou_icf_mpc_sequence_decomposition_iter01,HANDOFF.md;docs/SEQUENCE_DECOMPOSITION_REPORT.md;results/raw/sample_decomposition.csv,1
+jd_jq_audit,C:\Users\catkin\Documents\baseline_zhou\baseline_zhou-main\baseline_zhou-main\zhou_icf_mpc_constraint_audit_v1,results/summary/all_constraint_cases.csv;src/+zhou_constraint/run_baseline_gate.m,1

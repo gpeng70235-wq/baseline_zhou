@@ -1,0 +1,2 @@
+decision,reason,prototype_allowed,gate_reason,sequence_ul_to_total_ratio,model_ul_to_total_ratio,avg_false_safe_rate,seq_ul_false_safe_rate,top1_avg_ul_flip_rate,top1_avg_plant_flip_rate,maximum_closure_error_A
+B,Frozen-F ultralocal segment replay equals the controller average prediction; model/F error dominates.,0,decision=B; material_cases=17; seq_false_safe_drop=0; avg-ul_top1_flip=0; gates=3/6,1.02737154281334e-13,1,0.0305966132571523,0.0305966132571523,0,0.0113443464579969,1.11022302462516e-16

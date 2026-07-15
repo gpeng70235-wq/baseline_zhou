@@ -1,0 +1,8 @@
+freeze_reason,count
+none,317
+not_slow_tick,9112
+regressor_ill_conditioned,2
+startup_no_completed_command,10
+trusted_post_s2_execution,10
+u_hp_below_threshold,153
+window_incomplete,8

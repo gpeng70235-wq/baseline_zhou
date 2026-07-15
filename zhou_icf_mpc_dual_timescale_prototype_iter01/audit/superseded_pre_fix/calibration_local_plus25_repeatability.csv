@@ -1,0 +1,4 @@
+method,case_id,repeat_count,max_numeric_delta,sequence_equal,pass
+P,C01_nominal_100rpm_10A,1,0,1,1
+P,D03_id_iq_step,1,0,1,1
+P,P08_opposed_20pct,1,0,1,1

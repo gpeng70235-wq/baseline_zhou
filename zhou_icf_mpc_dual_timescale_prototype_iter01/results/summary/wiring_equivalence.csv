@@ -1,0 +1,18 @@
+check,pass,observed
+path_isolation,1,all critical symbols resolve once inside project
+B0_current_pointwise,1,max gap=0
+B0_prediction_pointwise,1,max gap=0
+B0_selected_final_sequence,1,equal=true
+B0_mode_sequence,1,equal=true
+B0_Jd_Jq_internal,1,max gap=0
+B0_S2_sequence,1,equal=true
+P_separate_predictor_package,1,new code is namespaced
+candidate_generation_frozen,1,SHA-equal source package
+J_limits_frozen,1,0.16/0.16 A^2
+S2_package_frozen,1,SHA-equal S2 package
+no_future_actual_current,1,causal code inspection and timing trace
+no_true_Ld_Lq_estimator,1,estimator config has no motor input
+post_S2_historical_u_app,1,completed execution log only
+dq_state_independence,1,distinct states and bounds
+finite_smoke,1,finite pointwise trace
+three_run_repeatability,1,equal excluding timers

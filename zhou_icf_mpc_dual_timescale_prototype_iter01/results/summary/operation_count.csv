@@ -1,0 +1,8 @@
+scope,execution_rate,add_sub,multiply,divide,compare,projection,state_scalars,gate_decisions,trend_ops,notes
+per_axis_base,every_cycle,10,5,0,0,0,7,0,0,causal derivative; two low-pass states; high-pass residual; F measurement and IIR
+per_axis_gate_metrics,every_cycle,5,3,1,6,0,4,6,0,rolling energy and normalized 2-column conditioning proxy; implementation budget
+per_axis_alpha_update,one_in_20_cycles,3,4,1,2,1,1,1,0,normalized gradient and hard projection
+per_axis_trend,worst_case_every_cycle,2,1,0,0,0,1,1,3,difference multiply add
+two_axis_worst_slow_tick,one_in_20_cycles,40,26,4,20,2,26,16,6,includes common decision-margin arithmetic; no matrix inversion
+two_axis_average_amortized,every_cycle,34.3,18.4,2.1,16.2,0.1,26,14.1,6,alpha cost amortized with N_alpha=20 and worst-case trend enabled
+fallback_RLS_per_axis,prototype_comparison_only,18,20,1,8,1,8,4,0,2-parameter constrained RLS with symmetric covariance; not main route
