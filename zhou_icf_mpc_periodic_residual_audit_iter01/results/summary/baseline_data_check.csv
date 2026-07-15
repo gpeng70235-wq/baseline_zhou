@@ -1,0 +1,16 @@
+check,pass,observed,requirement
+required_fields,1,missing=,all registered fields present
+registered_case_count,1,24,24
+registered_sample_count,1,24153,24153
+engineering_primary_false_safe,1,0.030296636989,0.030296636989
+reproduction_all_false_safe,1,0.030596613257,0.030596613257
+early_termination_semantics,1,5,5
+k_to_k_plus_2_residual_alignment,1,max_gap_A=9.94950649646498e-14,<=2e-10 A and frozen timing audit
+J_formula_alignment,1,max_gap_A2=7.67386154620908e-13,<=2e-10 A^2
+P0_recompute_closure,1,max_gap_A=0,<=2e-10 A
+plant_oracle_replay,1,max_gap_A=0,<=2e-10 A
+decision_trace_fields,1,nonempty=24153/24153,pending and applied traces retained for every row
+mode_and_S2_valid,1,modes=1;2;3;S2_count=10,finite mode and binary S2 flags
+prototype_B0_overlap_rows,1,4821,4821
+prototype_B0_numeric_overlap,1,max_gap=1.20300214234703e-10,<=2e-10
+prototype_B0_flag_overlap,1,0,0
