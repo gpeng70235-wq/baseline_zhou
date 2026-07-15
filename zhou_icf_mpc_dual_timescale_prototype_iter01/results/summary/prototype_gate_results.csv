@@ -1,0 +1,13 @@
+check,pass
+finite_and_legal,1
+termination_semantics,0
+aggregate_false_safe_nonincrease,0
+false_alarm_temporary,1
+prediction_RMS_temporary,0
+parameter_case_improves,1
+known_false_safe_improves,1
+alpha_not_long_at_boundary,1
+alpha_updates_nonzero,1
+S2_actual_voltage_gate,1
+decision_not_permanent,1
+three_repeat_determinism,1

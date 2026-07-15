@@ -1,0 +1,2 @@
+decision_code,decision_label,evidence_scope,minimal_gate_pass,full_24_executed,final_algorithm_formed,P_false_safe_reduction_vs_B0,P_false_safe_rate,B0_false_safe_rate,P_false_alarm_rate,P_vector_rms_A,B0_vector_rms_A,reason
+C,dual_timescale_primary_mechanism_failed_minimal_gate,MINIMAL_GATE_ONLY,0,0,0,-0.0643428347152053,0.0375312760633862,0.0352623936942543,0,0.132351629288697,0.0613188538370079,"P worsened aggregate false-safe, exceeded 150% RMS, and changed C07 termination from row 31 to row 6"

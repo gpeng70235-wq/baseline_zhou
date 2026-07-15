@@ -1,0 +1,2 @@
+method,status
+NOT_RUN,SKIPPED: preregistered five-case minimal gate failed; running this phase would violate the hard-gate order

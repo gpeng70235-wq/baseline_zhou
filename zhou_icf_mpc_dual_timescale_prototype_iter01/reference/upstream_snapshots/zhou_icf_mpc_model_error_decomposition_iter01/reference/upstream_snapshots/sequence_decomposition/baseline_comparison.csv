@@ -1,0 +1,11 @@
+checks,pass,observed,requirement
+accepted_IPMSM_nominal,1,completed=1 illegal=0,"complete and legal"
+Ld_equals_Lq_degeneration,1,Ld=0.001 Lq=0.001,"P0 complete, Ld=Lq"
+negative_id_case,1,id_ref=-4 complete=1,"negative-id complete"
+independent_alpha_d_q,1,alpha_d=1250 alpha_q=833.333333,"axis-specific and unequal"
+S2_nontrigger_normal,1,S2_fraction=0,"zero in low-voltage nominal"
+S2_known_boundary_trigger,1,S2_cycles=2,">0 cycles"
+representative_false_safe_present,1,false_safe_rate=0.655172414,">0 for frozen representative"
+THD_metric_valid,1,THD=2.89379783% reference_snapshot=1,"finite with frozen reference present"
+three_run_repeatability,1,max_deterministic_delta=0,"<=1e-12"
+fixed_constraints_and_initial_freeze,1,Jd=0.16 Jq=0.16 before_manifest=1,"0.16/0.16 A^2 and hash manifest"

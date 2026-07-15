@@ -1,0 +1,16 @@
+symbol,resolved_path,resolution_count,inside_project
+run_dual_timescale_prototype,C:\Users\catkin\Documents\baseline_zhou\zhou_icf_mpc_dual_timescale_prototype_iter01\run_dual_timescale_prototype.m,1,1
+prototype.icf_mpc_step,C:\Users\catkin\Documents\baseline_zhou\zhou_icf_mpc_dual_timescale_prototype_iter01\src\+prototype\icf_mpc_step.m,1,1
+zhou_ipmsm.controller.icf_mpc_step,C:\Users\catkin\Documents\baseline_zhou\zhou_icf_mpc_dual_timescale_prototype_iter01\src\+zhou_ipmsm\+controller\icf_mpc_step.m,1,1
+prototype.dual_timescale_predictor,C:\Users\catkin\Documents\baseline_zhou\zhou_icf_mpc_dual_timescale_prototype_iter01\src\+prototype\dual_timescale_predictor.m,1,1
+prototype.alpha_update,C:\Users\catkin\Documents\baseline_zhou\zhou_icf_mpc_dual_timescale_prototype_iter01\src\+prototype\alpha_update.m,1,1
+prototype.F_update,C:\Users\catkin\Documents\baseline_zhou\zhou_icf_mpc_dual_timescale_prototype_iter01\src\+prototype\F_update.m,1,1
+prototype.excitation_gate,C:\Users\catkin\Documents\baseline_zhou\zhou_icf_mpc_dual_timescale_prototype_iter01\src\+prototype\excitation_gate.m,1,1
+prototype.s2_input_quality_gate,C:\Users\catkin\Documents\baseline_zhou\zhou_icf_mpc_dual_timescale_prototype_iter01\src\+prototype\s2_input_quality_gate.m,1,1
+prototype.decision_margin_gate,C:\Users\catkin\Documents\baseline_zhou\zhou_icf_mpc_dual_timescale_prototype_iter01\src\+prototype\decision_margin_gate.m,1,1
+zhou_feasibility.apply_feasibility_layer,C:\Users\catkin\Documents\baseline_zhou\zhou_icf_mpc_dual_timescale_prototype_iter01\src\+zhou_feasibility\apply_feasibility_layer.m,1,1
+zhou_ipmsm.controller.sequence_equivalent_dq_voltage,C:\Users\catkin\Documents\baseline_zhou\zhou_icf_mpc_dual_timescale_prototype_iter01\src\+zhou_ipmsm\+controller\sequence_equivalent_dq_voltage.m,1,1
+prototype.plant_update,C:\Users\catkin\Documents\baseline_zhou\zhou_icf_mpc_dual_timescale_prototype_iter01\src\+prototype\plant_update.m,1,1
+prototype.case_metrics,C:\Users\catkin\Documents\baseline_zhou\zhou_icf_mpc_dual_timescale_prototype_iter01\src\+prototype\case_metrics.m,1,1
+prototype.calculate_thd,C:\Users\catkin\Documents\baseline_zhou\zhou_icf_mpc_dual_timescale_prototype_iter01\src\+prototype\calculate_thd.m,1,1
+prototype.calculate_torque_ripple,C:\Users\catkin\Documents\baseline_zhou\zhou_icf_mpc_dual_timescale_prototype_iter01\src\+prototype\calculate_torque_ripple.m,1,1

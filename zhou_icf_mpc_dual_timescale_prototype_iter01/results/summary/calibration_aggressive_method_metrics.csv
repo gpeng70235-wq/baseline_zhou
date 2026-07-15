@@ -1,0 +1,2 @@
+method,cohort,sample_count,false_safe_rate,false_alarm_rate,vector_rms_A,phase_thd,torque_ripple_Nm,id_tracking_rms_A,iq_tracking_rms_A,alpha_boundary_hit_rate,alpha_update_rate,gate_freeze_rate,decision_gate_rate,s2_gate_rate,execution_mean_us,termination_semantics_pass,estimator_finite,S2_count,illegal_duration_count
+P,ENGINEERING_PRIMARY,3594,0.0428491930996105,0,0.0949357426612479,1.44109337993806,0.075582305224839,0.222057080291859,0.338673568120411,0,0.0422222222222222,0.957777777777778,0.563888888888889,0.999166666666667,617.357539315448,1,1,1,0

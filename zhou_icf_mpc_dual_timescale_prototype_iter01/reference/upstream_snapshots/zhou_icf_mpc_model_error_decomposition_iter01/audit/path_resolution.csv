@@ -1,0 +1,14 @@
+required_role,which_query,resolved_paths,resolution_count,local_only
+base_parameters,base_parameters,C:\Users\catkin\Documents\baseline_zhou\zhou_icf_mpc_model_error_decomposition_iter01\config\base_parameters.m,1,1
+ipmsm_parameters,ipmsm_parameters,C:\Users\catkin\Documents\baseline_zhou\zhou_icf_mpc_model_error_decomposition_iter01\config\ipmsm_parameters.m,1,1
+icf_mpc_step,zhou_ipmsm.controller.icf_mpc_step,C:\Users\catkin\Documents\baseline_zhou\zhou_icf_mpc_model_error_decomposition_iter01\src\+zhou_ipmsm\+controller\icf_mpc_step.m,1,1
+estimate_ultralocal_F (actual implementation name),zhou_ipmsm.controller.estimate_F_algebraic,C:\Users\catkin\Documents\baseline_zhou\zhou_icf_mpc_model_error_decomposition_iter01\src\+zhou_ipmsm\+controller\estimate_F_algebraic.m,1,1
+S2 explicit feasibility,zhou_feasibility.apply_feasibility_layer,C:\Users\catkin\Documents\baseline_zhou\zhou_icf_mpc_model_error_decomposition_iter01\src\+zhou_feasibility\apply_feasibility_layer.m,1,1
+voltage-vector generation,zhou_ipmsm.inverter.voltage_vectors,C:\Users\catkin\Documents\baseline_zhou\zhou_icf_mpc_model_error_decomposition_iter01\src\+zhou_ipmsm\+inverter\voltage_vectors.m,1,1
+one-vector action-time construction,zhou_ipmsm.modulation.case1_command,C:\Users\catkin\Documents\baseline_zhou\zhou_icf_mpc_model_error_decomposition_iter01\src\+zhou_ipmsm\+modulation\case1_command.m,1,1
+two-vector action-time construction,zhou_ipmsm.modulation.case2_command,C:\Users\catkin\Documents\baseline_zhou\zhou_icf_mpc_model_error_decomposition_iter01\src\+zhou_ipmsm\+modulation\case2_command.m,1,1
+three-vector action-time construction,zhou_ipmsm.modulation.case3_command,C:\Users\catkin\Documents\baseline_zhou\zhou_icf_mpc_model_error_decomposition_iter01\src\+zhou_ipmsm\+modulation\case3_command.m,1,1
+plant update,zhou_ipmsm.model.integrate_command,C:\Users\catkin\Documents\baseline_zhou\zhou_icf_mpc_model_error_decomposition_iter01\src\+zhou_ipmsm\+model\integrate_command.m,1,1
+THD,zhou_ipmsm.metrics.phase_thd_total_rms,C:\Users\catkin\Documents\baseline_zhou\zhou_icf_mpc_model_error_decomposition_iter01\src\+zhou_ipmsm\+metrics\phase_thd_total_rms.m,1,1
+torque metric,zhou_ipmsm.model.electromagnetic_torque,C:\Users\catkin\Documents\baseline_zhou\zhou_icf_mpc_model_error_decomposition_iter01\src\+zhou_ipmsm\+model\electromagnetic_torque.m,1,1
+candidate ranking (embedded in controller),zhou_ipmsm.controller.icf_mpc_step,C:\Users\catkin\Documents\baseline_zhou\zhou_icf_mpc_model_error_decomposition_iter01\src\+zhou_ipmsm\+controller\icf_mpc_step.m,1,1

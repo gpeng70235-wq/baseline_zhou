@@ -1,0 +1,6 @@
+file,description,scope
+C:\Users\catkin\Documents\baseline_zhou\zhou_icf_mpc_dual_timescale_prototype_iter01\results\figures\minimal\01_false_safe_comparison.png,Five-case ENGINEERING_PRIMARY False-safe (%),MINIMAL_GATE
+C:\Users\catkin\Documents\baseline_zhou\zhou_icf_mpc_dual_timescale_prototype_iter01\results\figures\minimal\02_false_alarm_comparison.png,Five-case ENGINEERING_PRIMARY False-alarm (%),MINIMAL_GATE
+C:\Users\catkin\Documents\baseline_zhou\zhou_icf_mpc_dual_timescale_prototype_iter01\results\figures\minimal\03_prediction_rms_comparison.png,Five-case ENGINEERING_PRIMARY Prediction vector RMS (A),MINIMAL_GATE
+C:\Users\catkin\Documents\baseline_zhou\zhou_icf_mpc_dual_timescale_prototype_iter01\results\figures\minimal\04_known_false_safe_time_domain.png,C07 B0/P time-domain and termination divergence,MINIMAL_GATE
+C:\Users\catkin\Documents\baseline_zhou\zhou_icf_mpc_dual_timescale_prototype_iter01\results\figures\minimal\05_alpha_trajectories.png,P08 alpha d/q trajectories,MINIMAL_GATE
