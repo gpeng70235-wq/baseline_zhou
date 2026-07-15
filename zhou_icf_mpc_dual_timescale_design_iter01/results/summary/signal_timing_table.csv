@@ -1,0 +1,12 @@
+signal,definition,available_at,acts_over,source,causal,used_by_design
+i_meas(k),sampled dq current at row k,start of row k,n/a,current ADC or frozen trace,yes,derivative and predictor base
+i_meas(k-1),previous sampled dq current,start of row k,n/a,state history,yes,derivative
+u_app_eq(k-1),post-S2 equivalent voltage actually applied,complete by row k,k-1 to k,executed segment IDs durations Vdc theta and omega,yes,alpha and F updates
+pending(k),command already committed before row k,start of row k,k to k+1,selected(k-1) after S2,yes,first Zhou prediction step
+selected_core(k),native Zhou geometry result,during row k,k+1 to k+2 if S2 unchanged,native geometry and mode logic,yes,current decision diagnostics
+selected_final(k),post-S2 final command,end of row k,k+1 to k+2,S2 output,yes,second Zhou prediction and future applied log
+F_post(k),fast posterior F estimate,during row k,n/a,i(k) i(k-1) u_app(k-1) alpha_post(k),yes,both prediction steps
+alpha_post(k),slow posterior input gain,during row k,n/a,high-pass causal data through k,yes,both prediction steps
+i_hat(k+1|k),first predicted current,during row k,row k+1,i(k) pending(k) posterior states,yes,rectangle construction
+i_hat(k+2|k),second predicted current,end of row k,row k+2,i_hat(k+1|k) selected_final(k),yes,Jd and Jq audit
+g_decision_next(k),trend gate latched from current native selection,end of row k,row k+1,native Jd Jq and mode gap,yes,next-row predictor only

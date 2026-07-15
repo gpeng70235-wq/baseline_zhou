@@ -1,0 +1,11 @@
+case,history,excitation,s2_reconstructable,slow_tick,near_native_decision_boundary,alpha_update,F_update,decision_latch_next,alpha_step_scale,reason
+G01,0,0,1,1,0,0,0,0,1,startup history invalid
+G02,1,0,1,1,0,0,1,0,1,insufficient excitation updates only F
+G03,1,1,1,0,0,0,1,0,1,fast tick updates only F
+G04,1,1,1,1,0,1,1,0,1,normal slow alpha tick
+G05,1,1,1,1,1,1,1,1,1,near boundary latches next trend
+G06,1,1,1,1,0,1,1,0,0.25,high utilization derates alpha step
+G07,1,1,0,1,0,0,0,0,0,actual applied voltage untrusted
+G08,1,1,1,1,0,1,1,0,1,S2 trigger alone does not freeze
+G09,1,0,1,0,1,0,1,1,1,decision latch independent of alpha excitation
+G10,1,1,1,1,0,0,1,0,1,residual jump freezes alpha only

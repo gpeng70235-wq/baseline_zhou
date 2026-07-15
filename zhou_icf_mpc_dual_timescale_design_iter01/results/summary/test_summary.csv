@@ -1,0 +1,12 @@
+test_file,test_cases,passed,failed,incomplete,scope
+test_units_and_dimensions.m,1,1,0,0,dimensions and exact two Ts prediction steps
+test_no_future_data.m,1,1,0,0,no future actual current or Ld/Lq interface
+test_projection_bounds.m,1,1,0,0,hard per-axis alpha projection
+test_excitation_freeze.m,1,1,0,0,alpha freezes while trusted F updates
+test_s2_applied_voltage_usage.m,2,2,0,0,post-S2 applied voltage role and S2 trigger semantics
+test_decision_gate.m,1,1,0,0,native margin gate latches next cycle
+test_state_reset.m,1,1,0,0,deterministic reset and invalid history
+test_dq_axis_independence.m,1,1,0,0,one axis cannot overwrite the other
+test_determinism.m,1,1,0,0,bitwise repeatability
+test_path_isolation.m,1,1,0,0,design package resolves only inside target
+TOTAL,11,11,0,0,all tests passed in MATLAB R2024b

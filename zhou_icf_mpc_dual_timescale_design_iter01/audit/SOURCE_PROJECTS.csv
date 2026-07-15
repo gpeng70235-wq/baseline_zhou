@@ -1,0 +1,7 @@
+project_id,root,requested_name,status,file_count_before,evidence_note
+model_error_decomposition,C:\Users\catkin\Documents\baseline_zhou\zhou_icf_mpc_model_error_decomposition_iter01,zhou_icf_mpc_model_error_decomposition_iter01,FOUND_POPULATED,256,direct frozen source and primary evidence
+sequence_decomposition,C:\Users\catkin\Documents\baseline_zhou\zhou_icf_mpc_sequence_decomposition_iter01,zhou_icf_mpc_sequence_decomposition_iter01,FOUND_EMPTY_STUB,0,current path contains empty subdirectories; frozen sequence evidence is inside model-error snapshots
+feasibility_control,C:\Users\catkin\Documents\baseline_zhou\zhou_icf_mpc_ipmsm_feasibility_control_iter01,zhou_icf_mpc_ipmsm_feasibility_control_iter01,FOUND_EMPTY_STUB,0,current path contains empty subdirectories; timing source is preserved inside model-error project
+ipmsm_probe,C:\Users\catkin\Documents\baseline_zhou\zhou_icf_mpc_ipmsm_probe_iter01,zhou_icf_mpc_ipmsm_probe_iter01,FOUND_POPULATED,132,direct frozen source
+robust_constraint,C:\Users\catkin\Documents\baseline_zhou\zhou_icf_mpc_ipmsm_robust_constraint_iter01,zhou_icf_mpc_ipmsm_robust_constraint_iter01,FOUND_EMPTY_STUB,0,current path contains empty subdirectories; prior robust evidence is preserved inside model-error snapshots
+constraint_audit_v1,C:\Users\catkin\Documents\baseline_zhou\baseline_zhou-main\baseline_zhou-main\zhou_icf_mpc_constraint_audit_v1,zhou_icf_mpc_constraint_audit_v1,FOUND_EMPTY_STUB,0,current path contains empty subdirectories; prior constraint evidence is preserved inside model-error snapshots
